@@ -1,0 +1,30 @@
+html, body, #notepad {
+	font-family: 'Open sans', sans-serif;
+	margin:.5em;
+	font-size:11pt;
+}
+
+#notepad {
+	font-weight:400;
+	border:0;
+	font-size:1em;
+	height:50em;
+	outline:none;
+}
+#schedule li { 
+	font-weight:300;
+	list-style-type: none;
+	padding:0;
+	margin: 0;
+}
+#schedule li:nth-child(even) {color: #ccc}
+#schedule li:nth-child(odd) {color: #999}
+
+
+#schedule, #notepad, #schedule ul{
+	display:inline-block;
+	vertical-align:top;
+	padding:0;
+	margin:0;
+}
+
