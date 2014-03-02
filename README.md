@@ -1,4 +1,5 @@
 ## day planner
+![day planner](https://31.media.tumblr.com/67ce94712f7fcac686f05a4c208af1fb/tumblr_n1sarasp3Q1qzjhpro1_400.gif)
 
 It's a day planner "ported" into html/ javascript.
 Uses html5 local caching so your schedule is saved on your computer. 
